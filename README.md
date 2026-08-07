@@ -64,9 +64,9 @@ AI8051U 是 STC 推出的增强型 8051 内核单片机，集成 **MDU32**（32�
 
 ## 二、AI8051U 实验箱示例代码（V1.2）
 
-> 源目录：`D:\embeded electronic\stc\AI8051U-DEMO-CODE-V1.2\`
+> 源目录：`D:\embeded electronic\stc\AI8051U-DEMO-CODE-V1.2\Ai8051U-32Bit\`
 
-STC 官方为 AI8051U 实验箱提供的完整示例代码，包含 32-bit 和 8-bit 两种模式，覆盖所有片上外设与常用扩展模块。
+STC 官方为 AI8051U 实验箱提供的完整 32-bit 模式示例代码，覆盖所有片上外设与常用扩展模块。
 
 ### 基础外设（01-22）
 
