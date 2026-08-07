@@ -9,5 +9,4 @@ Objects/
 # IDE
 .vscode/
 
-# Compiled libraries (keep source files only)
-*.LIB
+# Compiled libraries are tracked intentionally
