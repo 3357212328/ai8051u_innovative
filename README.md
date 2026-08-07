@@ -12,12 +12,6 @@ AI8051U 是 STC 推出的增强型 8051 内核单片机，集成 **MDU32**（32�
 - **芯片型号**: AI8051U-32bit（251指令集）
 - **编程语言**: C
 
-### 注意事项
-
-使用前需安装 **Keil 中断向量号拓展插件**（位于 `D:\embeded electronic\stc\AI8051U专用库函数\库函数使用说明\Keil中断向量号拓展插件\`）：
-- 复制插件 EXE 到 Keil 安装目录 `C251\BIN\` 下运行
-- 勾选 `Use Expanded 251C Interrupt Vector` 选项
-
 ---
 
 ## 一、AI8051U 专属库函数
