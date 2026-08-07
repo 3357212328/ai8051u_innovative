@@ -1,0 +1,13 @@
+# Build output
+Listings/
+Objects/
+
+# UVision user-specific files
+*.uvgui.*
+*.uvopt
+
+# IDE
+.vscode/
+
+# Compiled libraries (keep source files only)
+*.LIB
