@@ -186,6 +186,7 @@ STC 官方为 AI8051U 实验箱提供的完整 32-bit 模式示例代码，覆�
 | 57 | 57-LIN总线主机收发测试-USART1 | （无功能说明.txt） |
 | 58 | 58-LIN总线从机收发测试-USART2 | （无功能说明.txt） |
 | 59 | 59-LIN总线主机收发测试-USART2 | （无功能说明.txt） |
+| 67 | 67-硬件高速HS-SPI访问FLASH-串口监控 | （无功能说明.txt） |
 | 69 | 69-USART1作为SPI_使用DMA和寄存器方式访问Flash例程 | （无功能说明.txt） |
 | 70 | 70-USART1作为SPI与USART2作为SPI相互通信例程 | （无功能说明.txt） |
 | 73 | 73-频谱分析256点FFT-USB-CDC送电脑ISP软件调试接口FFT绘图显示 | （无功能说明.txt） |
