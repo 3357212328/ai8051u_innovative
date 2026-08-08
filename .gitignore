@@ -6,7 +6,4 @@ Objects/
 *.uvgui.*
 *.uvopt
 
-# IDE
-.vscode/
-
 # Compiled libraries are tracked intentionally

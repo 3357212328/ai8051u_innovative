@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "name": "ai8051u",
+            "cStandard": "c89",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "gcc-x86",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/Keil_v5/C251/INC/STC",
+                "D:/Keil_v5/C251/INC"
+            ],
+            "defines": [
+                "__C251__",
+                "__VSCODE_C251__",
+                "reentrant=",
+                "compact=",
+                "small=",
+                "large=",
+                "data=",
+                "idata=",
+                "pdata=",
+                "bdata=",
+                "edata=",
+                "xdata=",
+                "code=",
+                "bit=char",
+                "sbit=char",
+                "sfr=char",
+                "sfr16=int",
+                "sfr32=int",
+                "interrupt=",
+                "using=",
+                "far=",
+                "_at_=",
+                "_priority_=",
+                "_task_="
+            ],
+            "compilerPath": "D:\\openmv\\share\\qtcreator\\stedgeai\\Utilities\\windows\\mingw64\\bin\\gcc.exe"
+        }
+    ],
+    "version": 4
+}
